@@ -7,5 +7,6 @@ config.ini
 notebooks/0.0-jmk-config_setup.ipynb
 
 # Ignore
-.idea
+.idea/
+
 
