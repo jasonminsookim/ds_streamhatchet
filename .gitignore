@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Config file for login credentials
+config.ini
+
+# The file that makes the config file
+notebooks/0.0-jmk-config_setup.ipynb
+
+# Ignore
+.idea
+

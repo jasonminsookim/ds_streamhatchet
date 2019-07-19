@@ -1,0 +1,461 @@
+,query,month,unique_channels,new_views,hours_watched
+0,Kashi,May 2019,41,"60,622","30,299"
+1,Kashi,April 2019,43,"63,061","33,578"
+2,Kashi,March 2019,35,"54,944","32,225"
+3,Kashi,February 2019,29,"19,926","16,096"
+4,Kashi,January 2019,39,"15,470","10,807"
+5,Kashi,December 2018,41,"19,764","10,843"
+6,Kashi,November 2018,44,"492,597","122,217"
+7,Kashi,October 2018,27,"70,403","27,982"
+8,Kashi,September 2018,32,"42,967","20,856"
+9,Kashi,August 2018,34,"67,011","26,530"
+10,Kashi,July 2018,32,"62,981","26,957"
+11,Kashi,June 2018,36,"63,593","27,175"
+12,Kashi,May 2018,34,"13,748","5,315"
+13,Kashi,April 2018,29,"18,785","5,750"
+14,Kashi,March 2018,32,"60,724","27,558"
+15,Kashi,February 2018,36,"54,124","21,259"
+16,Kashi,January 2018,26,"26,695","8,801"
+17,Kashi,December 2017,20,"52,742","20,677"
+18,Kashi,November 2017,26,"52,252","21,288"
+19,Kashi,October 2017,22,"53,115","25,769"
+20,Chips Ahoy,May 2019,1,5,2
+21,Chips Ahoy,April 2019,1,0,0
+22,Chips Ahoy,March 2019,0,0,0
+23,Chips Ahoy,February 2019,1,5,5
+24,Chips Ahoy,January 2019,2,10,10
+25,Chips Ahoy,December 2018,0,0,0
+26,Chips Ahoy,November 2018,1,1,0
+27,Chips Ahoy,October 2018,2,3,0
+28,Chips Ahoy,September 2018,0,0,0
+29,Chips Ahoy,August 2018,1,17,34
+30,Chips Ahoy,July 2018,1,6,0
+31,Chips Ahoy,June 2018,0,0,0
+32,Chips Ahoy,May 2018,0,0,0
+33,Chips Ahoy,April 2018,0,0,0
+34,Chips Ahoy,March 2018,0,0,0
+35,Chips Ahoy,February 2018,0,0,0
+36,Chips Ahoy,January 2018,1,0,0
+37,Chips Ahoy,December 2017,0,0,0
+38,Chips Ahoy,November 2017,0,0,0
+39,Chips Ahoy,October 2017,0,0,0
+40,The Wonderful Company,May 2019,0,0,0
+41,The Wonderful Company,April 2019,0,0,0
+42,The Wonderful Company,March 2019,0,0,0
+43,The Wonderful Company,February 2019,0,0,0
+44,The Wonderful Company,January 2019,0,0,0
+45,The Wonderful Company,December 2018,0,0,0
+46,The Wonderful Company,November 2018,0,0,0
+47,The Wonderful Company,October 2018,0,0,0
+48,The Wonderful Company,September 2018,0,0,0
+49,The Wonderful Company,August 2018,0,0,0
+50,The Wonderful Company,July 2018,0,0,0
+51,The Wonderful Company,June 2018,0,0,0
+52,The Wonderful Company,May 2018,0,0,0
+53,The Wonderful Company,April 2018,0,0,0
+54,The Wonderful Company,March 2018,0,0,0
+55,The Wonderful Company,February 2018,0,0,0
+56,The Wonderful Company,January 2018,0,0,0
+57,The Wonderful Company,December 2017,0,0,0
+58,The Wonderful Company,November 2017,0,0,0
+59,The Wonderful Company,October 2017,0,0,0
+60,ConAgra Foods,May 2019,0,0,0
+61,ConAgra Foods,April 2019,0,0,0
+62,ConAgra Foods,March 2019,0,0,0
+63,ConAgra Foods,February 2019,0,0,0
+64,ConAgra Foods,January 2019,0,0,0
+65,ConAgra Foods,December 2018,0,0,0
+66,ConAgra Foods,November 2018,0,0,0
+67,ConAgra Foods,October 2018,0,0,0
+68,ConAgra Foods,September 2018,0,0,0
+69,ConAgra Foods,August 2018,0,0,0
+70,ConAgra Foods,July 2018,0,0,0
+71,ConAgra Foods,June 2018,0,0,0
+72,ConAgra Foods,May 2018,0,0,0
+73,ConAgra Foods,April 2018,0,0,0
+74,ConAgra Foods,March 2018,0,0,0
+75,ConAgra Foods,February 2018,0,0,0
+76,ConAgra Foods,January 2018,0,0,0
+77,ConAgra Foods,December 2017,0,0,0
+78,ConAgra Foods,November 2017,0,0,0
+79,ConAgra Foods,October 2017,0,0,0
+80,Materne,May 2019,1,24,7
+81,Materne,April 2019,1,83,14
+82,Materne,March 2019,1,19,5
+83,Materne,February 2019,0,0,0
+84,Materne,January 2019,0,0,0
+85,Materne,December 2018,0,0,0
+86,Materne,November 2018,0,0,0
+87,Materne,October 2018,0,0,0
+88,Materne,September 2018,0,0,0
+89,Materne,August 2018,0,0,0
+90,Materne,July 2018,0,0,0
+91,Materne,June 2018,0,0,0
+92,Materne,May 2018,0,0,0
+93,Materne,April 2018,0,0,0
+94,Materne,March 2018,0,0,0
+95,Materne,February 2018,0,0,0
+96,Materne,January 2018,0,0,0
+97,Materne,December 2017,0,0,0
+98,Materne,November 2017,0,0,0
+99,Materne,October 2017,0,0,0
+100,Fruit Rush,May 2019,0,0,0
+101,Fruit Rush,April 2019,0,0,0
+102,Fruit Rush,March 2019,0,0,0
+103,Fruit Rush,February 2019,0,0,0
+104,Fruit Rush,January 2019,0,0,0
+105,Fruit Rush,December 2018,0,0,0
+106,Fruit Rush,November 2018,0,0,0
+107,Fruit Rush,October 2018,0,0,0
+108,Fruit Rush,September 2018,0,0,0
+109,Fruit Rush,August 2018,0,0,0
+110,Fruit Rush,July 2018,0,0,0
+111,Fruit Rush,June 2018,0,0,0
+112,Fruit Rush,May 2018,0,0,0
+113,Fruit Rush,April 2018,0,0,0
+114,Fruit Rush,March 2018,0,0,0
+115,Fruit Rush,February 2018,0,0,0
+116,Fruit Rush,January 2018,0,0,0
+117,Fruit Rush,December 2017,0,0,0
+118,Fruit Rush,November 2017,0,0,0
+119,Fruit Rush,October 2017,0,0,0
+120,Twitter,May 2019,"320,971","1,275,075,141","600,166,582"
+121,Twitter,April 2019,"327,263","1,169,583,755","573,205,095"
+122,Twitter,March 2019,"228,880","800,551,930","402,760,712"
+123,Twitter,February 2019,"219,447","720,884,543","329,488,510"
+124,Twitter,January 2019,"274,154","992,803,601","503,335,242"
+125,Twitter,December 2018,"252,549","872,264,092","457,821,317"
+126,Twitter,November 2018,"237,168","829,865,707","396,726,013"
+127,Twitter,October 2018,"237,670","851,550,469","430,142,594"
+128,Twitter,September 2018,"224,556","814,021,153","416,035,998"
+129,Twitter,August 2018,"222,948","803,574,871","348,886,460"
+130,Twitter,July 2018,"212,965","906,933,439","399,851,663"
+131,Twitter,June 2018,"210,521","854,979,363","425,937,446"
+132,Twitter,May 2018,"210,273","872,049,925","434,624,742"
+133,Twitter,April 2018,"205,011","793,380,929","389,254,797"
+134,Twitter,March 2018,"205,047","827,837,178","358,128,594"
+135,Twitter,February 2018,"176,154","671,463,669","315,805,346"
+136,Twitter,January 2018,"154,134","645,572,086","359,037,674"
+137,Twitter,December 2017,"165,978","598,309,192","324,715,147"
+138,Twitter,November 2017,"158,846","572,960,816","305,473,499"
+139,Twitter,October 2017,"158,454","547,631,815","286,756,553"
+140,Totino's,May 2019,3,"27,030","10,186"
+141,Totino's,April 2019,2,"17,512","4,845"
+142,Totino's,March 2019,2,0,2
+143,Totino's,February 2019,4,326,235
+144,Totino's,January 2019,2,358,34
+145,Totino's,December 2018,1,46,2
+146,Totino's,November 2018,2,75,15
+147,Totino's,October 2018,2,5,2
+148,Totino's,September 2018,1,3,3
+149,Totino's,August 2018,0,0,0
+150,Totino's,July 2018,1,4,5
+151,Totino's,June 2018,1,37,5
+152,Totino's,May 2018,2,75,28
+153,Totino's,April 2018,1,32,11
+154,Totino's,March 2018,2,30,7
+155,Totino's,February 2018,2,24,4
+156,Totino's,January 2018,1,1,0
+157,Totino's,December 2017,0,0,0
+158,Totino's,November 2017,2,"232,103","8,643"
+159,Totino's,October 2017,1,20,2
+160,Jersey Mike's April,May 2019,0,0,0
+161,Jersey Mike's April,April 2019,0,0,0
+162,Jersey Mike's April,March 2019,0,0,0
+163,Jersey Mike's April,February 2019,0,0,0
+164,Jersey Mike's April,January 2019,0,0,0
+165,Jersey Mike's April,December 2018,0,0,0
+166,Jersey Mike's April,November 2018,0,0,0
+167,Jersey Mike's April,October 2018,0,0,0
+168,Jersey Mike's April,September 2018,0,0,0
+169,Jersey Mike's April,August 2018,0,0,0
+170,Jersey Mike's April,July 2018,0,0,0
+171,Jersey Mike's April,June 2018,0,0,0
+172,Jersey Mike's April,May 2018,0,0,0
+173,Jersey Mike's April,April 2018,0,0,0
+174,Jersey Mike's April,March 2018,0,0,0
+175,Jersey Mike's April,February 2018,0,0,0
+176,Jersey Mike's April,January 2018,0,0,0
+177,Jersey Mike's April,December 2017,0,0,0
+178,Jersey Mike's April,November 2017,0,0,0
+179,Jersey Mike's April,October 2017,0,0,0
+180,Bud Light LIme,May 2019,1,"1,322",320
+181,Bud Light LIme,April 2019,1,"1,749",421
+182,Bud Light LIme,March 2019,0,0,0
+183,Bud Light LIme,February 2019,1,687,381
+184,Bud Light LIme,January 2019,1,928,359
+185,Bud Light LIme,December 2018,1,858,553
+186,Bud Light LIme,November 2018,0,0,0
+187,Bud Light LIme,October 2018,1,"2,489","1,651"
+188,Bud Light LIme,September 2018,1,"2,628","1,481"
+189,Bud Light LIme,August 2018,0,0,0
+190,Bud Light LIme,July 2018,1,"2,491",954
+191,Bud Light LIme,June 2018,1,"2,498","1,235"
+192,Bud Light LIme,May 2018,1,"1,394","1,059"
+193,Bud Light LIme,April 2018,0,0,0
+194,Bud Light LIme,March 2018,1,"1,286",639
+195,Bud Light LIme,February 2018,1,"2,579",926
+196,Bud Light LIme,January 2018,1,0,20
+197,Bud Light LIme,December 2017,1,476,218
+198,Bud Light LIme,November 2017,0,0,0
+199,Bud Light LIme,October 2017,2,891,524
+200,Rits,May 2019,161,"223,314","86,221"
+201,Rits,April 2019,169,"194,704","88,234"
+202,Rits,March 2019,111,"55,557","27,011"
+203,Rits,February 2019,115,"119,393","53,115"
+204,Rits,January 2019,134,"145,803","72,988"
+205,Rits,December 2018,123,"136,008","64,091"
+206,Rits,November 2018,113,"123,374","50,093"
+207,Rits,October 2018,109,"104,727","35,243"
+208,Rits,September 2018,91,"103,449","43,886"
+209,Rits,August 2018,97,"79,192","30,814"
+210,Rits,July 2018,92,"88,495","25,505"
+211,Rits,June 2018,95,"81,468","35,456"
+212,Rits,May 2018,116,"97,143","43,104"
+213,Rits,April 2018,126,"97,078","29,264"
+214,Rits,March 2018,128,"147,533","52,139"
+215,Rits,February 2018,110,"146,874","68,657"
+216,Rits,January 2018,80,"127,795","92,385"
+217,Rits,December 2017,99,"183,279","108,672"
+218,Rits,November 2017,89,"130,291","88,317"
+219,Rits,October 2017,90,"82,973","32,882"
+220,WonderfulHalos,May 2019,0,0,0
+221,WonderfulHalos,April 2019,0,0,0
+222,WonderfulHalos,March 2019,0,0,0
+223,WonderfulHalos,February 2019,0,0,0
+224,WonderfulHalos,January 2019,0,0,0
+225,WonderfulHalos,December 2018,0,0,0
+226,WonderfulHalos,November 2018,0,0,0
+227,WonderfulHalos,October 2018,0,0,0
+228,WonderfulHalos,September 2018,0,0,0
+229,WonderfulHalos,August 2018,0,0,0
+230,WonderfulHalos,July 2018,0,0,0
+231,WonderfulHalos,June 2018,0,0,0
+232,WonderfulHalos,May 2018,0,0,0
+233,WonderfulHalos,April 2018,0,0,0
+234,WonderfulHalos,March 2018,0,0,0
+235,WonderfulHalos,February 2018,0,0,0
+236,WonderfulHalos,January 2018,0,0,0
+237,WonderfulHalos,December 2017,0,0,0
+238,WonderfulHalos,November 2017,0,0,0
+239,WonderfulHalos,October 2017,0,0,0
+240,TurkeyHill,May 2019,0,0,0
+241,TurkeyHill,April 2019,0,0,0
+242,TurkeyHill,March 2019,0,0,0
+243,TurkeyHill,February 2019,0,0,0
+244,TurkeyHill,January 2019,0,0,0
+245,TurkeyHill,December 2018,0,0,0
+246,TurkeyHill,November 2018,0,0,0
+247,TurkeyHill,October 2018,0,0,0
+248,TurkeyHill,September 2018,0,0,0
+249,TurkeyHill,August 2018,0,0,0
+250,TurkeyHill,July 2018,0,0,0
+251,TurkeyHill,June 2018,0,0,0
+252,TurkeyHill,May 2018,0,0,0
+253,TurkeyHill,April 2018,0,0,0
+254,TurkeyHill,March 2018,0,0,0
+255,TurkeyHill,February 2018,0,0,0
+256,TurkeyHill,January 2018,0,0,0
+257,TurkeyHill,December 2017,0,0,0
+258,TurkeyHill,November 2017,0,0,0
+259,TurkeyHill,October 2017,0,0,0
+260,Pissa Hut,May 2019,0,0,0
+261,Pissa Hut,April 2019,0,0,0
+262,Pissa Hut,March 2019,0,0,0
+263,Pissa Hut,February 2019,0,0,0
+264,Pissa Hut,January 2019,0,0,0
+265,Pissa Hut,December 2018,0,0,0
+266,Pissa Hut,November 2018,0,0,0
+267,Pissa Hut,October 2018,0,0,0
+268,Pissa Hut,September 2018,0,0,0
+269,Pissa Hut,August 2018,0,0,0
+270,Pissa Hut,July 2018,0,0,0
+271,Pissa Hut,June 2018,0,0,0
+272,Pissa Hut,May 2018,0,0,0
+273,Pissa Hut,April 2018,0,0,0
+274,Pissa Hut,March 2018,0,0,0
+275,Pissa Hut,February 2018,0,0,0
+276,Pissa Hut,January 2018,0,0,0
+277,Pissa Hut,December 2017,0,0,0
+278,Pissa Hut,November 2017,0,0,0
+279,Pissa Hut,October 2017,0,0,0
+280,BluEcigs,May 2019,0,0,0
+281,BluEcigs,April 2019,0,0,0
+282,BluEcigs,March 2019,0,0,0
+283,BluEcigs,February 2019,0,0,0
+284,BluEcigs,January 2019,0,0,0
+285,BluEcigs,December 2018,0,0,0
+286,BluEcigs,November 2018,0,0,0
+287,BluEcigs,October 2018,0,0,0
+288,BluEcigs,September 2018,0,0,0
+289,BluEcigs,August 2018,0,0,0
+290,BluEcigs,July 2018,0,0,0
+291,BluEcigs,June 2018,0,0,0
+292,BluEcigs,May 2018,0,0,0
+293,BluEcigs,April 2018,0,0,0
+294,BluEcigs,March 2018,0,0,0
+295,BluEcigs,February 2018,0,0,0
+296,BluEcigs,January 2018,0,0,0
+297,BluEcigs,December 2017,0,0,0
+298,BluEcigs,November 2017,0,0,0
+299,BluEcigs,October 2017,0,0,0
+300,GarciaYVega,May 2019,0,0,0
+301,GarciaYVega,April 2019,0,0,0
+302,GarciaYVega,March 2019,0,0,0
+303,GarciaYVega,February 2019,0,0,0
+304,GarciaYVega,January 2019,0,0,0
+305,GarciaYVega,December 2018,0,0,0
+306,GarciaYVega,November 2018,0,0,0
+307,GarciaYVega,October 2018,0,0,0
+308,GarciaYVega,September 2018,0,0,0
+309,GarciaYVega,August 2018,0,0,0
+310,GarciaYVega,July 2018,0,0,0
+311,GarciaYVega,June 2018,0,0,0
+312,GarciaYVega,May 2018,0,0,0
+313,GarciaYVega,April 2018,0,0,0
+314,GarciaYVega,March 2018,0,0,0
+315,GarciaYVega,February 2018,0,0,0
+316,GarciaYVega,January 2018,0,0,0
+317,GarciaYVega,December 2017,0,0,0
+318,GarciaYVega,November 2017,0,0,0
+319,GarciaYVega,October 2017,0,0,0
+320,CoronaExtra,May 2019,0,0,0
+321,CoronaExtra,April 2019,0,0,0
+322,CoronaExtra,March 2019,0,0,0
+323,CoronaExtra,February 2019,1,"1,271",668
+324,CoronaExtra,January 2019,0,0,0
+325,CoronaExtra,December 2018,0,0,0
+326,CoronaExtra,November 2018,0,0,0
+327,CoronaExtra,October 2018,0,0,0
+328,CoronaExtra,September 2018,0,0,0
+329,CoronaExtra,August 2018,0,0,0
+330,CoronaExtra,July 2018,1,"1,760,383","1,217,589"
+331,CoronaExtra,June 2018,1,"1,333,068","1,025,414"
+332,CoronaExtra,May 2018,1,"1,614,055","1,293,796"
+333,CoronaExtra,April 2018,2,"1,324,788","1,122,292"
+334,CoronaExtra,March 2018,1,"1,642,412","1,306,620"
+335,CoronaExtra,February 2018,1,"905,153","901,644"
+336,CoronaExtra,January 2018,1,"875,370","1,537,959"
+337,CoronaExtra,December 2017,0,0,0
+338,CoronaExtra,November 2017,1,"1,148,536","1,239,861"
+339,CoronaExtra,October 2017,1,"801,994","718,914"
+340,Mikes Hard Lemonade,May 2019,1,50,114
+341,Mikes Hard Lemonade,April 2019,0,0,0
+342,Mikes Hard Lemonade,March 2019,0,0,0
+343,Mikes Hard Lemonade,February 2019,0,0,0
+344,Mikes Hard Lemonade,January 2019,0,0,0
+345,Mikes Hard Lemonade,December 2018,0,0,0
+346,Mikes Hard Lemonade,November 2018,0,0,0
+347,Mikes Hard Lemonade,October 2018,0,0,0
+348,Mikes Hard Lemonade,September 2018,0,0,0
+349,Mikes Hard Lemonade,August 2018,0,0,0
+350,Mikes Hard Lemonade,July 2018,0,0,0
+351,Mikes Hard Lemonade,June 2018,0,0,0
+352,Mikes Hard Lemonade,May 2018,0,0,0
+353,Mikes Hard Lemonade,April 2018,0,0,0
+354,Mikes Hard Lemonade,March 2018,0,0,0
+355,Mikes Hard Lemonade,February 2018,0,0,0
+356,Mikes Hard Lemonade,January 2018,0,0,0
+357,Mikes Hard Lemonade,December 2017,0,0,0
+358,Mikes Hard Lemonade,November 2017,0,0,0
+359,Mikes Hard Lemonade,October 2017,0,0,0
+360,Mike'sHardLemonade,May 2019,0,0,0
+361,Mike'sHardLemonade,April 2019,0,0,0
+362,Mike'sHardLemonade,March 2019,0,0,0
+363,Mike'sHardLemonade,February 2019,0,0,0
+364,Mike'sHardLemonade,January 2019,0,0,0
+365,Mike'sHardLemonade,December 2018,0,0,0
+366,Mike'sHardLemonade,November 2018,0,0,0
+367,Mike'sHardLemonade,October 2018,0,0,0
+368,Mike'sHardLemonade,September 2018,0,0,0
+369,Mike'sHardLemonade,August 2018,0,0,0
+370,Mike'sHardLemonade,July 2018,0,0,0
+371,Mike'sHardLemonade,June 2018,0,0,0
+372,Mike'sHardLemonade,May 2018,0,0,0
+373,Mike'sHardLemonade,April 2018,0,0,0
+374,Mike'sHardLemonade,March 2018,0,0,0
+375,Mike'sHardLemonade,February 2018,0,0,0
+376,Mike'sHardLemonade,January 2018,0,0,0
+377,Mike'sHardLemonade,December 2017,0,0,0
+378,Mike'sHardLemonade,November 2017,0,0,0
+379,Mike'sHardLemonade,October 2017,0,0,0
+380,GoGoSqueese,May 2019,0,0,0
+381,GoGoSqueese,April 2019,0,0,0
+382,GoGoSqueese,March 2019,0,0,0
+383,GoGoSqueese,February 2019,0,0,0
+384,GoGoSqueese,January 2019,0,0,0
+385,GoGoSqueese,December 2018,0,0,0
+386,GoGoSqueese,November 2018,0,0,0
+387,GoGoSqueese,October 2018,0,0,0
+388,GoGoSqueese,September 2018,0,0,0
+389,GoGoSqueese,August 2018,0,0,0
+390,GoGoSqueese,July 2018,0,0,0
+391,GoGoSqueese,June 2018,0,0,0
+392,GoGoSqueese,May 2018,0,0,0
+393,GoGoSqueese,April 2018,0,0,0
+394,GoGoSqueese,March 2018,0,0,0
+395,GoGoSqueese,February 2018,0,0,0
+396,GoGoSqueese,January 2018,0,0,0
+397,GoGoSqueese,December 2017,0,0,0
+398,GoGoSqueese,November 2017,0,0,0
+399,GoGoSqueese,October 2017,0,0,0
+400,ArisonaIcedTea,May 2019,0,0,0
+401,ArisonaIcedTea,April 2019,0,0,0
+402,ArisonaIcedTea,March 2019,0,0,0
+403,ArisonaIcedTea,February 2019,0,0,0
+404,ArisonaIcedTea,January 2019,0,0,0
+405,ArisonaIcedTea,December 2018,0,0,0
+406,ArisonaIcedTea,November 2018,0,0,0
+407,ArisonaIcedTea,October 2018,0,0,0
+408,ArisonaIcedTea,September 2018,0,0,0
+409,ArisonaIcedTea,August 2018,0,0,0
+410,ArisonaIcedTea,July 2018,0,0,0
+411,ArisonaIcedTea,June 2018,0,0,0
+412,ArisonaIcedTea,May 2018,0,0,0
+413,ArisonaIcedTea,April 2018,0,0,0
+414,ArisonaIcedTea,March 2018,0,0,0
+415,ArisonaIcedTea,February 2018,0,0,0
+416,ArisonaIcedTea,January 2018,0,0,0
+417,ArisonaIcedTea,December 2017,0,0,0
+418,ArisonaIcedTea,November 2017,0,0,0
+419,ArisonaIcedTea,October 2017,0,0,0
+420,AppleandEve,May 2019,0,0,0
+421,AppleandEve,April 2019,0,0,0
+422,AppleandEve,March 2019,0,0,0
+423,AppleandEve,February 2019,0,0,0
+424,AppleandEve,January 2019,0,0,0
+425,AppleandEve,December 2018,0,0,0
+426,AppleandEve,November 2018,0,0,0
+427,AppleandEve,October 2018,0,0,0
+428,AppleandEve,September 2018,0,0,0
+429,AppleandEve,August 2018,0,0,0
+430,AppleandEve,July 2018,0,0,0
+431,AppleandEve,June 2018,0,0,0
+432,AppleandEve,May 2018,0,0,0
+433,AppleandEve,April 2018,0,0,0
+434,AppleandEve,March 2018,0,0,0
+435,AppleandEve,February 2018,0,0,0
+436,AppleandEve,January 2018,0,0,0
+437,AppleandEve,December 2017,0,0,0
+438,AppleandEve,November 2017,0,0,0
+439,AppleandEve,October 2017,0,0,0
+440,MikesHardLemonade,May 2019,0,0,0
+441,MikesHardLemonade,April 2019,0,0,0
+442,MikesHardLemonade,March 2019,0,0,0
+443,MikesHardLemonade,February 2019,0,0,0
+444,MikesHardLemonade,January 2019,0,0,0
+445,MikesHardLemonade,December 2018,0,0,0
+446,MikesHardLemonade,November 2018,0,0,0
+447,MikesHardLemonade,October 2018,0,0,0
+448,MikesHardLemonade,September 2018,0,0,0
+449,MikesHardLemonade,August 2018,0,0,0
+450,MikesHardLemonade,July 2018,0,0,0
+451,MikesHardLemonade,June 2018,0,0,0
+452,MikesHardLemonade,May 2018,0,0,0
+453,MikesHardLemonade,April 2018,0,0,0
+454,MikesHardLemonade,March 2018,0,0,0
+455,MikesHardLemonade,February 2018,0,0,0
+456,MikesHardLemonade,January 2018,0,0,0
+457,MikesHardLemonade,December 2017,0,0,0
+458,MikesHardLemonade,November 2017,0,0,0
+459,MikesHardLemonade,October 2017,0,0,0
